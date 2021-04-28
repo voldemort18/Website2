@@ -1,0 +1,327 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: #ff4c68;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+body{
+  font-family: 'Walter Turncoat', cursive;
+}
+p {
+  color: black;
+}
+h2 {
+
+  line-height: 1.5;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.penguin{
+width: 60%;
+position: relative;
+margin-bottom: 5%;
+right: auto;
+left: auto;
+top:40%;
+}
+.penguin1{
+width: 10%;
+position: fixed;
+top:4px;
+right:20px;
+}
+.sn2{
+  width : 12%;
+  position: relative;
+  bottom: 200px;
+  left:50px;
+}
+.p1{
+  width : 12%;
+  position: relative;
+  bottom: 300px;
+  left:320px;
+}
+.sn3{
+  width : 12%;
+  position: relative;
+  bottom: 200px;
+  right:100px;
+}
+.sn8{
+  width : 12%;
+  position: relative;
+  bottom: 650px;
+  right:px;
+}
+.sn4{
+  width : 12%;
+  position: relative;
+  bottom: 400px;
+  right:100px;
+}
+.sn5{
+  width : 12%;
+  position: relative;
+  bottom: 500px;
+  right:1050px;
+}
+.sn6{
+  width : 12%;
+  position: relative;
+  top: 100px;
+  right:1050px;
+}
+.sn7{
+  width : 12%;
+  position: relative;
+  bottom: 10px;
+  left: 20px;
+}
+.sn9{
+  width : 12%;
+  position: relative;
+  bottom: 10px;
+  right: 800px;
+}
+.yev {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  size: 1em;
+  line-height: 1.5;
+  margin-bottom: 1px;
+
+}
+.jjj1{
+  color: #ff4c68;
+ padding-top: 2%;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.jio {
+  padding: 5% 0;
+  text-align: left;
+  line-height: 2;
+  /* color: white; */
+}
+
+.joo {
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-bottom: 20px
+}
+/* navbar */
+
+.navbar {
+  padding-left: 0;
+  padding-top: 50px;
+}
+
+.navbar-brand {
+  font-size: 1.75em;
+  padding-left: 0;
+
+  font-weight: lighter;
+}
+
+.nav-item {
+  padding: 0 23px;
+}
+
+.nav-link {
+  font-size: 1em;
+
+}
+
+.blue {
+  padding-top: 0;
+}
+
+.njio {
+  width: 55%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.oops {
+  color: #ef8172;
+  margin-bottom: 4%;
+}
+
+.oops:hover {
+  color: #ff4c68;
+}
+.hhh{
+  color:white;
+}
+.youi {
+  margin-top: 5%;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.jjj{
+text-align: center;
+color: white;
+padding: 3%;
+
+}
+
+#features {
+  position: relative;
+  z-index: 1;
+  background-color: #ff4c68 ;
+  color: black;
+}
+
+/* }
+testimonial section */
+#testimonials {
+  text-align: center;
+  background-color: white;
+  color: #ff4c68;
+}
+.logo1 {
+  width: 20%;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.doggy {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+  margin-top: 30px
+}
+
+/* press section */
+#press {
+  background-color: white;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.logo {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+.logoo {
+  width: 5%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing */
+#pricing {
+  text-align: center;
+  padding: 100px;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.fool {
+  padding: 3% 2%;
+}
+
+.ioi{
+  color: black;
+}
+/* media query */
+@media (max-width: 1177px) {
+  .njio {
+    position: static;
+    transform: rotate(0);
+  }
+
+  .jio {
+    text-align: center;
+  }
+
+  .fool {
+    padding: 0;
+  }
+}
+
+/* footer section modification */
+#footer {
+  padding-bottom: 0;
+}
+#footer {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 2%;
+  color: white;
+}
+
+#cta {
+  background-color: white;
+  text-align: center;
+
+  color: #ff4c68;
+  padding: 3%;
+  line-height: 2;
+  padding-bottom: 5%;
+}
+#cta1 {
+  text-align: center;
+
+  color: #ff4c68;
+  padding: 3%;
+  line-height: 2;
+  padding-bottom: 5%;
+}
+
+.poi {
+  margin-right: 2%;
+
+  font-weight: 600;
+  margin: 2%;
+}
+.poil1:hover {
+  color: white;
+}
+.poil {
+  margin: 0;
+}
+.vary {
+  font-size: 2rem;
+}
+.hoo {
+  margin: .5%;
+  margin-bottom: 0;
+}
+a:link {
+  color: white;
+
+}
+.poil1 {
+  margin: 20px;
+}
+
+.hoo:hover {
+  color: white;
